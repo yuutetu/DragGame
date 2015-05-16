@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
 
   s.homepage     = "http://github.com/yuutetu/DragGame"
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
-  s.author       = { "加賀江 優幸" => "math16.music25@gmail.com" }
+  s.author       = { "yuutetu" => "yuutetu@gmail.com" }
   s.platform     = :ios, '6.1'
   s.source       = { :git => "https://github.com/yuutetu/DragGame.git", :tag => "0.0.1" }
   s.source_files  = 'DragGame', 'DragGame/**/*.{h,m}'
